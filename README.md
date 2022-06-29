@@ -35,7 +35,7 @@ There were three candidates in this election. Diana DeGette received 272,892 vot
 
 The winner of this US Congressional election was Diana DeGette, with 272,892 votes (73.8% of the total)
 
-##**Election Audit Summary Table:**
+## **Election Audit Summary Table:**
 
 ![summary table](https://github.com/brianbutler08/Election_Analysis/blob/main/Election_Analysis/VS%20Code%20election%20output.png)
 
