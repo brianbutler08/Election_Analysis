@@ -40,6 +40,8 @@ Election Audit Summary Table
 
 # Election Audit Summary
 
+In addition to successfully auditing the Congressional election, Tom and I developed a piece of code that can be used fo future elections in the state (or elsewhere), no matter how large or small. As a best practice, we consciously did not hard code any specific numbers into our work. We could have easily used data specific to this election for some of the mathematical expressions, but chose to keep it flexible and allow the code to determine what the parameters were. A basic example of this is the establishment of a variable (total_votes) to count and hold the number of votes cast. We could have used the number 369,711 in our code when it was time to calculate percentages, but that would have complicated its use in other elections (with different vote totals). Similarly, we didn't include the actual names of the three candidates, but instead allowed the code to pull those from the dataset. These simple decisions allow the code to be applied to other elections with minimal, if any, adjustments.
+
 
 
 Three distinct types - mail-in ballots, punch cards and Direct Recording Electronic
