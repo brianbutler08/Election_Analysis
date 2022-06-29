@@ -2,9 +2,9 @@
 
 # Overview of the Election Audit
 
-For this project, we were approached by oiur friend Tom, who is an employee at the Colorado Board of Elections. He asked for assistance in auditing a recent US Congressional Precinct election by conducting a vote count report to certify the election. THis process is usually domne in Excel, but they want to know if the procedures can be automated in Python. If it's successful, the code that Tom and I put tiogether could be used in the future for elections in other Congressional districts, in addition to Senatorial districts as well as local elections.
+For this project, we were approached by oiur friend Tom, who is an employee at the Colorado Board of Elections. He asked for assistance in auditing a recent US Congressional Precinct election by conducting a vote count report to certify the election. This process is usually done in Excel, but the Board want to know if the procedures can be automated in Python. If it's successful, the code that Tom and I put together could be used in the future for elections in other Congressional districts, in addition to Senatorial districts as well as local elections.
 
-The dataset that we had access to included all votes cast in the election. There were three pieces of information for each volte:
+The dataset that we had access to included all votes cast in the election. There were three pieces of information for each vote:
 - Ballot ID
 - The county that the vote was cast in
 - The candidate that the vote was cast for
@@ -19,7 +19,7 @@ The total number of votes cast in the precinct for this election was 369,711.
 
 - Voter Turnout by County
 
-Since the borders of this Congressional district cover a wide area, there were votes from residents from three different counties. The number (and percentage) of ballots cast in each county was 306,055 in Denver (82.8%), 38,855 (10.5%) in Jefferson and 24,801 (6.7%) in Arapahoe. 
+Since the borders of this Congressional district cover a wide area, there were votes from residents of three different counties. The number (and percentage) of ballots cast in each county was 306,055 (82.8%) in Denver, 38,855 (10.5%) in Jefferson and 24,801 (6.7%) in Arapahoe. 
 
 - County With the Largest Voter Turnout
 
